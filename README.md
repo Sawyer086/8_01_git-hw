@@ -73,6 +73,7 @@ https://github.com/Sawyer086/8.01_test_1/commit/dfb161952bfe61e452783ff14d72b4ff
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
 
 Ваш граф комитов должен выглядеть аналогично скриншоту:
+
 ![1](https://user-images.githubusercontent.com/77622076/256180841-e73589cf-7e97-40e5-ac01-d1d55376f1b9.png)
 
 ### Задание 4
