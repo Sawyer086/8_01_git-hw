@@ -56,6 +56,7 @@ https://github.com/Sawyer086/8.01_test_1/commit/dfb161952bfe61e452783ff14d72b4ff
 
 Ответ:
 https://github.com/Sawyer086/8.01_test_1/commit/e3408c9f72611afdda73020ae927168ac1b2dfa9
+
 ---
 
 ### Задание 3
