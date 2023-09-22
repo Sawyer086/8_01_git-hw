@@ -76,6 +76,8 @@ https://github.com/Sawyer086/8.01_test_1/commit/e3408c9f72611afdda73020ae927168a
 
 ![1](https://user-images.githubusercontent.com/77622076/256180841-e73589cf-7e97-40e5-ac01-d1d55376f1b9.png)
 
+Ответ: https://github.com/Sawyer086/8.01_test_1/network
+
 ### Задание 4
 
 `Приведите ответ в свободной форме........`
