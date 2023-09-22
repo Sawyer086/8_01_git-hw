@@ -95,5 +95,6 @@ https://github.com/Sawyer086/8.01_test_1/commit/e3408c9f72611afdda73020ae927168a
 7. Сделайте мердж ветки conflict в основную ветку и решите конфликт так, чтобы в результате в файле оказался код из ветки conflict.
 
 Ответ:
+https://github.com/Sawyer086/8.01_test_1/network
    
 ---
